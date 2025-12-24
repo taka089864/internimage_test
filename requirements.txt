@@ -32,7 +32,8 @@ setuptools==60.2.0
 Shapely==2.1.2
 similaritymeasures==1.4.0
 simplejson==3.20.2
-skimage==0.0
+scikit-image
+#skimage==0.0
 Sphinx==9.0.4
 tensorflow==2.20.0
 termcolor==3.2.0
